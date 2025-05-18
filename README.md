@@ -1,2 +1,2 @@
 # TWW_midi
-midifiles
+midifiles for use in wild west 
